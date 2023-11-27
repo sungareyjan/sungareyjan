@@ -14,7 +14,7 @@ In addition to my skill in development, I'm always learning new things. In an ef
 
 Join me on this exciting expedition where I blend creativity with technology, turning challenges into opportunities in the dynamic world of software development and server administration.
 
-- 🌱 I’m currently learning Node, Reactjs and (Ubuntu server with lite speed).
+- 🌱 I’m currently learning Node, Reactjs and Ubuntu server with lite speed.
 
 
 ## 🌐 Socials:
