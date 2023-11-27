@@ -61,7 +61,7 @@ Join me on this exciting expedition where I blend creativity with technology, tu
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sungareyjan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sungareyjan&theme=tokyonight&hide_border=false)<br />
@@ -78,9 +78,7 @@ Join me on this exciting expedition where I blend creativity with technology, tu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sungareyjan&icon=5&color=0)](https://visitcount.itsvg.in)
-
+-->
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/reyjansunga)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
