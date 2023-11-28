@@ -16,7 +16,7 @@ Join me on this exciting expedition where I blend creativity with technology, tu
 
 - 🌱 I’m currently learning Node, Reactjs and Ubuntu server with lite speed.
 
-![Uploading giphy.gif…]()
+![programmer](/full-stack-programmer.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/reyjansunga/)
