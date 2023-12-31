@@ -10,7 +10,7 @@
  I'm a Full Stack Developer with a passion for turning concepts into cutting-edge apps. My focus at the Department of Agriculture in Region 3 is on process optimization and the development of user-friendly apps. I hold a Bachelor's degree in Information Technology.
 
 
-In addition to my skill in development, I'm always learning new things. In an effort to be on the cutting edge of web programming, I'm currently exploring the worlds of Node js and React js. The nuances of managing an Ubuntu server with cyberpanel and LiteSpeed are something I'm learning about concurrently.This dual focus not only sharpens my coding skills but also empowers me to optimize server performance forseamless application delivery.
+In addition to my skill in development, I'm always learning new things. In an effort to be on the cutting edge of web programming, I'm currently exploring the worlds of Node js and React js.  managing an Ubuntu server with cyberpanel and LiteSpeed are something I'm learning about concurrently.This dual focus not only sharpens my coding skills but also empowers me to optimize server performance forseamless application delivery.
 
 Join me on this exciting expedition where I blend creativity with technology, turning challenges into opportunities in the dynamic world of software development and server administration.
 
