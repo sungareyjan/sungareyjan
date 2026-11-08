@@ -7,13 +7,16 @@
 
 # 💫 About Me:
 
-I'm a Full Stack Developer with a passion for turning concepts into cutting-edge applications. I focus on process optimization and the development of user-friendly apps that make technology accessible and efficient. I hold a Bachelor's degree in Information Technology.
+I'm a Full Stack Developer with a passion for turning concepts into modern, scalable, and user-friendly applications. I focus on process optimization and building practical solutions that make technology more accessible, efficient, and reliable. I hold a Bachelor's degree in Information Technology.
 
-In addition to my development skills, I'm constantly learning new technologies. To stay on the cutting edge of web programming, I’m currently exploring Node.js and React.js, while also managing an Ubuntu server with CyberPanel and LiteSpeed. This dual focus not only sharpens my coding skills but also helps me optimize server performance for seamless application delivery.
+My experience spans both application development and server infrastructure. I work across the full stack, developing web applications while also managing and deploying services in Linux-based server environments. I’m currently working with Docker and containerized deployments, using technologies such as Laravel, React.js, Node.js, PostgreSQL, Redis, and MinIO to build and manage modern application infrastructure.
 
-Join me on this exciting journey where I blend creativity with technology — transforming challenges into opportunities in the dynamic world of software development and server administration.
+I’m continuously learning and exploring new technologies to strengthen my skills in software development, DevOps, and server administration. My current focus includes improving my expertise in React.js, Node.js, Docker, Ubuntu Server, container orchestration, and production deployment. I enjoy working not only on the application itself but also on the infrastructure that keeps it secure, scalable, and performant.
 
-🌱 I’m currently learning Node.js, React.js, and Ubuntu server with LiteSpeed.
+Join me on this journey as I blend creativity, software engineering, and infrastructure — transforming challenges into reliable digital solutions in the dynamic world of full-stack development and modern server administration.
+
+🌱 I’m currently learning and working with **React.js, Node.js, Docker, Ubuntu Server, PostgreSQL, Redis, and modern containerized deployment practices.**
+
 
 ![programmer](/full-stack-programmer.gif)
 
